@@ -1,0 +1,28 @@
+{
+  "name": "character-health",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DShubn/Character-health.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DShubn/Character-health/issues"
+  },
+  "homepage": "https://github.com/DShubn/Character-health#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.28.0",
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "jest": "^30.0.4"
+  },
+  "dependencies": {
+    "core-js": "^3.43.0"
+  }
+}
