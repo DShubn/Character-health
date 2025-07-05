@@ -1,1 +1,1 @@
-[![CI Status](https://github.com/Dshubn/<Character-health>/actions/workflows/ci.yml/badge.svg)]
+[![CI Status](https://github.com/DShubn/Character-health/actions/workflows/blank.yml/badge.svg)](https://github.com/DShubn/Character-health/actions/workflows/blank.yml)
