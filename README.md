@@ -1,0 +1,1 @@
+[![CI Status](https://github.com/Dshubn/<Character-health>/actions/workflows/ci.yml/badge.svg)]
